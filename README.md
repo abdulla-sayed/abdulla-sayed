@@ -1,68 +1,51 @@
 <!--
-  ════════════════════════════════════════════════════════════════════════
-  GitHub Profile README for  @abdulla-sayed  (Abdulla Sayed)
-  → This file must live in a repo named exactly  abdulla-sayed/abdulla-sayed
-    and be saved there as  README.md  for GitHub to render it on your profile.
-  ════════════════════════════════════════════════════════════════════════
+  GitHub profile README for @abdulla-sayed (Abdulla Sayed).
+  This file must live in a repo named exactly  abdulla-sayed/abdulla-sayed
+  and be saved there as  README.md  for GitHub to show it on your profile.
+  Snake animation setup: copy the separate snake.yml into .github/workflows/ in that repo.
 -->
 
-<!-- ╔══════════════════════  HEADER BANNER  ══════════════════════╗ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8A2BE2,100:00D4FF&height=220&section=header&text=Abdulla%20Sayed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%26%20AI%20Engineer%20%7C%20ML%20for%20Healthcare%20Researcher&descSize=18&descAlignY=60" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8A2BE2,100:00D4FF&height=220&section=header&text=Abdulla%20Sayed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Researcher&descSize=18&descAlignY=60" alt="header" />
 
-<!-- Typing animation -->
 <a href="https://github.com/abdulla-sayed">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+%26+AI+Engineer+%F0%9F%A4%96;Applied+ML+for+Healthcare+Researcher+%F0%9F%A9%BA;Full-Stack+Developer+%E2%80%94+Next.js+%7C+TypeScript+%7C+Flask;Digital+Twins+%26+Explainable+AI+%F0%9F%A7%A0;First-Author+%40+Springer+EHB+2025+%F0%9F%93%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+BK+Consultancy+and+Training;Full-Stack+Developer+%28Next.js%2C+TypeScript%2C+Flask%29;I+build+and+ship+production+web+apps;Machine+Learning+for+healthcare+on+the+side" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Quick-stat chips -->
 <a href="https://www.linkedin.com/in/abdulla-sayed-65b267352/"><img src="https://img.shields.io/badge/LinkedIn-Abdulla%20Sayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:abdullasayed10@gmail.com"><img src="https://img.shields.io/badge/Email-abdullasayed10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://gluco-twin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio_Project-GlucoTwin-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="GlucoTwin"/></a>
+<a href="https://gluco-twin.vercel.app/"><img src="https://img.shields.io/badge/Project-GlucoTwin-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="GlucoTwin"/></a>
 <img src="https://komarev.com/ghpvc/?username=abdulla-sayed&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<!-- ╔══════════════════════  ABOUT  ══════════════════════╗ -->
+## About Me
 
-## 👋 About Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8A2BE2,100:58A6FF&height=90&section=header" alt="divider" />
 
-```python
-class AbdullaSayed:
-    def __init__(self):
-        self.role         = "Software Engineer @ BK Consultancy & Training"
-        self.education    = "B.Sc. Computer Science — University of Sharjah (GPA 3.90 / Highest Honors)"
-        self.location     = "Cairo, Egypt 🌍"
-        self.focus        = ["Applied ML for Healthcare", "Digital Twins", "Explainable AI", "Full-Stack SaaS"]
-        self.publications = ["Springer EHB 2025", "EDEC 2026", "DeSE 2025", "Journal (under review)"]
-        self.fun_fact     = "Won 🥇 Gold at Hackmos 2024 with a blockchain-powered app"
+I'm a software engineer who likes building things end to end, from the backend and data all the way to the web app people actually use.
 
-    def current_mission(self):
-        return "Building models that are accurate AND interpretable — then shipping them to real users."
-```
+Most of my work is in Next.js, TypeScript, Prisma and Flask, and I deploy with Docker, AWS and Vercel. So far I've shipped a couple of SaaS platforms, an ML-powered churn prediction service, and a blockchain app that won gold at Hackmos 2024.
 
-I'm a Computer Science graduate (**3.90 GPA, Highest Honors**) who works across the full stack of building intelligent systems — from **training and benchmarking ML models** to **shipping the production web apps** that put them in users' hands.
+I also did research in applied machine learning for healthcare during my degree, including a digital-twin platform for predicting gestational diabetes. There's more on that further down if you're curious.
 
-- 🔬 My research focuses on **applied machine learning for healthcare** — I'm **first author** on *GlucoTwin*, a digital-twin platform for early prediction of gestational diabetes (Springer EHB 2025 · EDEC 2026), and **co-author** on work in liver-cancer biomarker prediction and explainable AI.
-- 🛠️ On the engineering side I build production-grade apps with **Next.js, TypeScript, Prisma & Flask**, and deploy with **Docker, AWS & Vercel**.
-- 🚀 I've shipped ML APIs, SaaS platforms, and a blockchain app that won **Gold at Hackmos 2024**.
-- 💬 Ask me about **digital twins, XGBoost, SHAP-based explainability, or building SaaS from zero to deploy**.
+A few quick facts:
 
-<!-- ╔══════════════════════  CURRENTLY  ══════════════════════╗ -->
+- Based in Cairo, Egypt.
+- B.Sc. in Computer Science from the University of Sharjah, 3.90 GPA with Highest Honors.
+- Happy to talk about full-stack SaaS, building and deploying ML APIs, or digital twins.
 
-## 💼 What I'm Working On
+## What I'm Working On
 
-> **🏢 Software Engineer @ BK Consultancy & Training** &nbsp;·&nbsp; *Jun 2026 – Present*
+> Software Engineer at BK Consultancy and Training, June 2026 to present.
 
-- 🧱 **CourseBricks** — Working closely with the CourseBricks team to deliver and enhance the company's **training-management platform**, improving and extending the production codebase.
-- 📊 **Maturix** — Building a new **maturity-assessment software platform** for the company. → [maturix.app](http://maturix.app)
+- [CourseBricks](https://coursebricks.io/): the company's training-management platform. I work with the CourseBricks team to ship new features and improve the existing codebase.
+- [Maturix](http://maturix.app): a new maturity-assessment platform that I'm helping build from the ground up.
 
-<!-- ╔══════════════════════  TECH STACK  ══════════════════════╗ -->
-
-## 🧰 Tech Stack & Tools
+## Tech Stack
 
 <div align="center">
 
@@ -114,9 +97,7 @@ I'm a Computer Science graduate (**3.90 GPA, Highest Honors**) who works across 
 
 </div>
 
-<!-- ╔══════════════════════  FEATURED / PINNED REPOS  ══════════════════════╗ -->
-
-## 📌 Featured Projects — Top 3
+## Featured Projects
 
 <div align="center">
 
@@ -136,44 +117,36 @@ I'm a Computer Science graduate (**3.90 GPA, Highest Honors**) who works across 
 
 </div>
 
-<!-- ╔══════════════════════  ALL PROJECTS  ══════════════════════╗ -->
+## Projects
 
-## 🚀 Projects
-
-| Project | Description | Tech | Links |
+| Project | What it is | Tech | Links |
 |---|---|---|---|
-| **🩺 GlucoTwin** | Digital-twin platform for **early prediction of gestational diabetes** — 90% recall with XGBoost, with a clinical dashboard interface. *(Published research, see below.)* | `Next.js` `Flask` `XGBoost` `Prisma` | [Repo](https://github.com/abdulla-sayed/GlucoTwin) · [Live Demo](https://gluco-twin.vercel.app/) |
-| **📉 ChurnPredict AI** | ML telecom **churn-prediction** system; Dockerized Flask API on Render + a Next.js / Tailwind / Clerk / Prisma frontend for real-time predictions. | `scikit-learn` `Flask` `Docker` `Next.js` | [Repo](https://github.com/abdulla-sayed/churn_prediction) · [Live Demo](https://churn-prediction-ochre.vercel.app/) |
-| **🛍️ E-commerce SaaS — Store** | Customer-facing storefront for a full **multi-tenant e-commerce SaaS** platform. | `Next.js` `TypeScript` `Prisma` | [Repo](https://github.com/abdulla-sayed/E_commerce_SAAS_store) |
-| **🧮 E-commerce SaaS — Admin** | Admin dashboard powering the e-commerce SaaS — catalog, orders & analytics. | `Next.js` `TypeScript` `Prisma` | [Repo](https://github.com/abdulla-sayed/E_commerce_SAAS_admin) |
-| **🧠 SHAP Implementation** | **Explainable-AI** pipeline combining SHAP with optimisation heuristics (PSO, GA, ACO) for biomarker interpretability on multi-omics data. | `Python` `SHAP` `scikit-learn` | [Repo](https://github.com/abdulla-sayed/SHAP_implementation) |
+| GlucoTwin | A digital-twin web app for early prediction of gestational diabetes. It reaches 90% recall with XGBoost and shows the results on a clinical dashboard. | Next.js, Flask, XGBoost, Prisma | [Repo](https://github.com/abdulla-sayed/GlucoTwin), [Live](https://gluco-twin.vercel.app/) |
+| ChurnPredict AI | A telecom churn-prediction service. A Dockerized Flask API on Render with a Next.js frontend for real-time predictions. | scikit-learn, Flask, Docker, Next.js | [Repo](https://github.com/abdulla-sayed/churn_prediction), [Live](https://churn-prediction-ochre.vercel.app/) |
+| E-commerce SaaS (Store) | The customer-facing storefront for a multi-tenant e-commerce platform. | Next.js, TypeScript, Prisma | [Repo](https://github.com/abdulla-sayed/E_commerce_SAAS_store) |
+| E-commerce SaaS (Admin) | The admin dashboard for the same platform, covering catalog, orders and analytics. | Next.js, TypeScript, Prisma | [Repo](https://github.com/abdulla-sayed/E_commerce_SAAS_admin) |
+| SHAP Implementation | An explainable-AI pipeline that pairs SHAP with optimisation heuristics (PSO, GA, ACO) for biomarker interpretability. | Python, SHAP, scikit-learn | [Repo](https://github.com/abdulla-sayed/SHAP_implementation) |
 
-<!-- ╔══════════════════════  PUBLICATIONS  ══════════════════════╗ -->
+## Publications & Research
 
-## 📚 Publications & Research
+I worked as a part-time Research Assistant with the OpenUAE group at the University of Sharjah from 2023 to 2025. The work below came out of that.
 
-> Research Assistant (Part-time) · **OpenUAE Research & Development Group, University of Sharjah** · Aug 2023 – Dec 2025
+| Publication | Venue / status | Role | Link |
+|---|---|---|---|
+| GlucoTwin: A Machine Learning-Based Digital Twin System for Early Prediction of Gestational Diabetes | Springer EHB 2025, presented Nov 2025 | First author | [Paper](https://drive.google.com/drive/folders/1e6Nin0r-KESiuB_1LfLaxkwbTJ6op_E0?usp=drive_link) |
+| GlucoTwin: A Digital Twin Platform for Real-Time Monitoring and Early Intervention in Gestational Diabetes | EDEC 2026, accepted for oral presentation (Feb 2026) | First-presenting author | [Paper](https://drive.google.com/drive/folders/1MdvTTtZOAHdgtelL-PX1awhvH5Okumn6?usp=drive_link) |
+| Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction | DeSE 2025 | Co-author | [Paper](https://drive.google.com/drive/folders/1ZD32NKu6jJHP1o94viNa0b9N8qCIKpF6?usp=drive_link) |
+| Potential of Artificial Intelligence Algorithms for Identification of Relevant Diagnostic and Prognostic Biomarkers of Early-Stage Liver Cancer | Journal, under review (Biomedical Signal Processing and Control) | Co-author | [Paper](https://drive.google.com/drive/folders/1ugygoLs2AsqcnQBoxJCoBCeHmA1iUxIR?usp=drive_link) |
 
-| # | Publication | Venue / Status | Role | Link |
-|---|---|---|---|---|
-| 1 | **GlucoTwin: A Machine Learning-Based Digital Twin System for Early Prediction of Gestational Diabetes** — 90% recall with XGBoost, in collaboration with the UoS Center for Diabetes. | 🟢 **Springer EHB 2025** (presented Nov 2025) | First Author | [📄 Paper](https://drive.google.com/drive/folders/1e6Nin0r-KESiuB_1LfLaxkwbTJ6op_E0?usp=drive_link) |
-| 2 | **GlucoTwin: A Digital Twin Platform for Real-Time Monitoring and Early Intervention in Gestational Diabetes** — integrated AI + digital-twin framework with Next.js clinical dashboards & CupCarbon simulations. | 🟢 **16th EDEC 2026** (accepted for oral presentation, Feb 2026) | First-Presenting Author | [📄 Paper](https://drive.google.com/drive/folders/1MdvTTtZOAHdgtelL-PX1awhvH5Okumn6?usp=drive_link) |
-| 3 | **Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction** — 96.5% accuracy (XGBoost), in collaboration with the University of Lübeck. | 🟢 **18th Int'l Conf. on Developments in eSystems Engineering (DeSE 2025)** | Co-Author | [📄 Paper](https://drive.google.com/drive/folders/1ZD32NKu6jJHP1o94viNa0b9N8qCIKpF6?usp=drive_link) |
-| 4 | **Potential of Artificial Intelligence Algorithms for Identification of Relevant Diagnostic and Prognostic Biomarkers of Early-Stage Liver Cancer** — SHAP-based explainability + PSO/GA/ACO optimisation across multi-omics data. | 🟡 **Journal** — *Biomedical Signal Processing and Control* (under review) | Co-Author | [📄 Paper](https://drive.google.com/drive/folders/1ugygoLs2AsqcnQBoxJCoBCeHmA1iUxIR?usp=drive_link) |
+## Achievements
 
-<!-- ╔══════════════════════  EXPERIENCE & ACHIEVEMENTS  ══════════════════════╗ -->
+- Won gold at Hackmos 2024 for a blockchain-powered app.
+- Co-authored four research papers as an undergraduate, all in applied machine learning for healthcare, appearing in venues like Springer EHB 2025, EDEC 2026 and DeSE 2025. Getting that much published before graduating is something I'm genuinely proud of.
+- The journal paper on early-stage liver cancer biomarkers is a collaboration with a medical research team at the University of Lübeck in Germany. We held a number of joint meetings and working sessions over the course of the project, and it's currently under review at Biomedical Signal Processing and Control.
+- Interned as an AI Engineer at Saal.AI in Abu Dhabi (May to July 2025), where I built ChurnPredict AI, earned a perfect 60/60 mentor score, and got hands-on experience with vLLM and LLM chatbot prototyping.
+- Graduated with a 3.90/4.00 GPA (Highest Honors) and made the Dean's List.
 
-## 🏆 Experience & Achievements
-
-- 🥇 **Gold Winner — Hackmos 2024** for a blockchain-powered application.
-- 🧠 **AI Engineer Intern @ Saal.AI** (Abu Dhabi, May–Jul 2025) — built *ChurnPredict AI*, earned a **perfect 60/60 mentor score**, and gained hands-on **vLLM / LLM chatbot** prototyping experience.
-- 🎓 **Dean's List Award** — recognized for academic excellence, Spring 2024/2025, University of Sharjah.
-- 🎖️ **3.90 / 4.00 GPA — Highest Honors**, B.Sc. Computer Science (Sep 2022 – Dec 2025).
-- 📜 [View a verified credential →](https://credsverse.com/credentials/83e32bca-d455-492f-adea-4be3443ccc6d)
-
-<!-- ╔══════════════════════  GITHUB STATS  ══════════════════════╗ -->
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -186,19 +159,17 @@ I'm a Computer Science graduate (**3.90 GPA, Highest Honors**) who works across 
 
 </div>
 
-### 🐍 Contribution Activity
+### Contribution Activity
 
 <div align="center">
 
-<!-- Animated activity graph -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulla-sayed&theme=tokyo-night&bg_color=0D1117&color=58A6FF&line=8A2BE2&point=ffffff&hide_border=true&area=true" alt="Activity graph"/>
 
-<!-- Contribution snake (see setup note at the bottom of this file) -->
 <img width="100%" src="https://raw.githubusercontent.com/abdulla-sayed/abdulla-sayed/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
 </div>
 
-### 🏅 Trophies
+### Trophies
 
 <div align="center">
 
@@ -206,9 +177,7 @@ I'm a Computer Science graduate (**3.90 GPA, Highest Honors**) who works across 
 
 </div>
 
-<!-- ╔══════════════════════  CONNECT  ══════════════════════╗ -->
-
-## 🤝 Let's Connect
+## Connect
 
 <div align="center">
 
@@ -216,11 +185,6 @@ I'm a Computer Science graduate (**3.90 GPA, Highest Honors**) who works across 
 <a href="mailto:abdullasayed10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/abdulla-sayed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-<br/><br/>
-
-<i>💡 "Models that are accurate <b>and</b> interpretable — then shipped to the people who need them."</i>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8A2BE2,100:58A6FF&height=120&section=footer" alt="footer"/>
-
