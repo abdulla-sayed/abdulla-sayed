@@ -7,10 +7,6 @@
 </a>
 
 <br/>
-
-<a href="https://www.linkedin.com/in/abdulla-sayed-65b267352/"><img src="https://img.shields.io/badge/LinkedIn-Abdulla%20Sayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:abdullasayed10@gmail.com"><img src="https://img.shields.io/badge/Email-abdullasayed10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://gluco-twin.vercel.app/"><img src="https://img.shields.io/badge/Project-GlucoTwin-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="GlucoTwin"/></a>
 <img src="https://komarev.com/ghpvc/?username=abdulla-sayed&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
@@ -31,8 +27,8 @@ I also did research in applied machine learning for healthcare during my degree,
 
 > Software Engineer · **BK Consultancy and Training** · Jun 2026 to Present
 
-- [Coursebricks](https://coursebricks.io/): the company's training-management platform. I work with the CourseBricks team to ship new features and improve the existing codebase.
-- [Maturix](http://maturix.app): a new maturity-assessment platform that I'm helping build from the ground up.
+- <img src='coursebricks_logo.png' height=20px width=20px /> [Coursebricks](https://coursebricks.io/): The company's training-management platform. I work with the Coursebricks team to ship new features and improve the existing codebase.
+- <img src='maturix_logo.png' height=20px width=20px /> [Maturix](http://maturix.app): A new maturity-assessment platform that I'm helping build from the ground up.
 
 ## 🛠️ Tech Stack
 
