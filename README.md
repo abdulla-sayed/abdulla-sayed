@@ -1,10 +1,3 @@
-<!--
-  GitHub profile README for @abdulla-sayed (Abdulla Sayed).
-  This file must live in a repo named exactly  abdulla-sayed/abdulla-sayed
-  and be saved there as  README.md  for GitHub to show it on your profile.
-  Snake animation setup: copy the separate snake.yml into .github/workflows/ in that repo.
--->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8A2BE2,100:00D4FF&height=220&section=header&text=Abdulla%20Sayed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20and%20AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Researcher&descSize=18&descAlignY=60" alt="header" />
@@ -22,27 +15,26 @@
 
 </div>
 
-## About Me
+## 👋 About Me
+
 I'm a software engineer who likes building things end to end, from the backend and data all the way to the web app people actually use.
 
 Most of my work is in Next.js, TypeScript, Prisma and Flask, and I deploy with Docker, AWS and Vercel. So far I've shipped a couple of SaaS platforms, an ML-powered churn prediction service, and a blockchain app that won gold at Hackmos 2024.
 
 I also did research in applied machine learning for healthcare during my degree, including a digital-twin platform for predicting gestational diabetes. There's more on that further down if you're curious.
 
-A few quick facts:
+- 📍 Based in Cairo, Egypt.
+- 🎓 B.Sc. in Computer Science from the University of Sharjah, 3.90 GPA with Highest Honors.
+- 💬 Happy to talk about full-stack SaaS, building and deploying ML APIs, or digital twins.
 
-- Based in Cairo, Egypt.
-- B.Sc. in Computer Science from the University of Sharjah, 3.90 GPA with Highest Honors.
-- Happy to talk about full-stack SaaS, building and deploying ML APIs, or digital twins.
-
-## What I'm Working On
+## 💼 What I'm Working On
 
 > Software Engineer · **BK Consultancy and Training** · Jun 2026 to Present
 
-- [CourseBricks](https://coursebricks.io/): the company's training-management platform. I work with the CourseBricks team to ship new features and improve the existing codebase.
+- [Coursebricks](https://coursebricks.io/): the company's training-management platform. I work with the CourseBricks team to ship new features and improve the existing codebase.
 - [Maturix](http://maturix.app): a new maturity-assessment platform that I'm helping build from the ground up.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -94,27 +86,23 @@ A few quick facts:
 
 </div>
 
-## Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/abdulla-sayed/GlucoTwin">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=GlucoTwin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="GlucoTwin"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=GlucoTwin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="GlucoTwin"/>
 </a>
 <a href="https://github.com/abdulla-sayed/churn_prediction">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=churn_prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="ChurnPredict AI"/>
-</a>
-
-<a href="https://github.com/abdulla-sayed/E_commerce_SAAS_store">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=E_commerce_SAAS_store&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="E-commerce SaaS"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=churn_prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="ChurnPredict AI"/>
 </a>
 <a href="https://github.com/abdulla-sayed/SHAP_implementation">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=SHAP_implementation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="SHAP Implementation"/>
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=SHAP_implementation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="SHAP Implementation"/>
 </a>
 
 </div>
 
-## Projects
+## 🚀 Projects
 
 | Project | What it is | Tech | Links |
 |---|---|---|---|
@@ -124,7 +112,7 @@ A few quick facts:
 | E-commerce SaaS (Admin) | The admin dashboard for the same platform, covering catalog, orders and analytics. | Next.js, TypeScript, Prisma | [Repo](https://github.com/abdulla-sayed/E_commerce_SAAS_admin) |
 | SHAP Implementation | An explainable-AI pipeline that pairs SHAP with optimisation heuristics (PSO, GA, ACO) for biomarker interpretability. | Python, SHAP, scikit-learn | [Repo](https://github.com/abdulla-sayed/SHAP_implementation) |
 
-## Publications & Research
+## 📚 Publications & Research
 
 > Research Assistant (Part-time) · **OpenUAE Research & Development Group, University of Sharjah** · Aug 2023 to Dec 2025
 
@@ -135,7 +123,7 @@ A few quick facts:
 | Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction | DeSE 2025 | Co-author | [Paper](https://drive.google.com/drive/folders/1ZD32NKu6jJHP1o94viNa0b9N8qCIKpF6?usp=drive_link) |
 | Potential of Artificial Intelligence Algorithms for Identification of Relevant Diagnostic and Prognostic Biomarkers of Early-Stage Liver Cancer | Journal, under review (Biomedical Signal Processing and Control) | Co-author | [Paper](https://drive.google.com/drive/folders/1ugygoLs2AsqcnQBoxJCoBCeHmA1iUxIR?usp=drive_link) |
 
-## Achievements
+## 🏆 Achievements
 
 - Won gold at Hackmos 2024 for a blockchain-powered app.
 - Co-authored four research papers as an undergraduate, all in applied machine learning for healthcare, appearing in venues like Springer EHB 2025, EDEC 2026 and DeSE 2025. Getting that much published before graduating is something I'm genuinely proud of.
@@ -143,7 +131,7 @@ A few quick facts:
 - Interned as an AI Engineer at Saal.AI in Abu Dhabi (May to July 2025), where I built ChurnPredict AI, earned a perfect 60/60 mentor score, and got hands-on experience with vLLM and LLM chatbot prototyping.
 - Graduated with a 3.90/4.00 GPA (Highest Honors) and made the Dean's List.
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -156,7 +144,7 @@ A few quick facts:
 
 </div>
 
-### Contribution Activity
+### 🐍 Contribution Activity
 
 <div align="center">
 
@@ -166,15 +154,8 @@ A few quick facts:
 
 </div>
 
-### Trophies
 
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=abdulla-sayed&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-
-</div>
-
-## Connect
+## 🤝 Connect with me!
 
 <div align="center">
 
