@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8A2BE2,100:00D4FF&height=220&section=header&text=Abdulla%20Sayed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Researcher&descSize=18&descAlignY=60" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:8A2BE2,100:00D4FF&height=220&section=header&text=Abdulla%20Sayed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20and%20AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Researcher&descSize=18&descAlignY=60" alt="header" />
 
 <a href="https://github.com/abdulla-sayed">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Software+Engineer+%40+BK+Consultancy+and+Training;Full-Stack+Developer+%28Next.js%2C+TypeScript%2C+Flask%29;I+build+and+ship+production+web+apps;Machine+Learning+for+healthcare+on+the+side" alt="Typing SVG" />
@@ -23,9 +23,6 @@
 </div>
 
 ## About Me
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:8A2BE2,100:58A6FF&height=90&section=header" alt="divider" />
-
 I'm a software engineer who likes building things end to end, from the backend and data all the way to the web app people actually use.
 
 Most of my work is in Next.js, TypeScript, Prisma and Flask, and I deploy with Docker, AWS and Vercel. So far I've shipped a couple of SaaS platforms, an ML-powered churn prediction service, and a blockchain app that won gold at Hackmos 2024.
@@ -40,7 +37,7 @@ A few quick facts:
 
 ## What I'm Working On
 
-> Software Engineer at BK Consultancy and Training, June 2026 to present.
+> Software Engineer · **BK Consultancy and Training** · Jun 2026 to Present
 
 - [CourseBricks](https://coursebricks.io/): the company's training-management platform. I work with the CourseBricks team to ship new features and improve the existing codebase.
 - [Maturix](http://maturix.app): a new maturity-assessment platform that I'm helping build from the ground up.
@@ -129,7 +126,7 @@ A few quick facts:
 
 ## Publications & Research
 
-I worked as a part-time Research Assistant with the OpenUAE group at the University of Sharjah from 2023 to 2025. The work below came out of that.
+> Research Assistant (Part-time) · **OpenUAE Research & Development Group, University of Sharjah** · Aug 2023 to Dec 2025
 
 | Publication | Venue / status | Role | Link |
 |---|---|---|---|
