@@ -19,9 +19,8 @@ Most of my work is in Next.js, TypeScript, Prisma and Flask, and I deploy with D
 
 I also did research in applied machine learning for healthcare during my degree, including a digital-twin platform for predicting gestational diabetes. There's more on that further down if you're curious.
 
-- 📍 Based in Cairo, Egypt.
-- 🎓 B.Sc. in Computer Science from the University of Sharjah, 3.90 GPA with Highest Honors.
-- 💬 Happy to talk about full-stack SaaS, building and deploying ML APIs, or digital twins.
+- 🎓 B.Sc. in Computer Science from the University of Sharjah, 3.90 GPA with Highest Honors. Recognized for academic excellence, [Spring 2024/2025](https://drive.google.com/drive/folders/1e6Nin0r-KESiuB_1LfLaxkwbTJ6op_E0?usp=drive_link)
+- 💬 Happy to talk about full-stack SaaS, building and deploying ML APIs, or AI Engineering.
 
 ## 💼 What I'm Working On
 
@@ -114,10 +113,10 @@ I also did research in applied machine learning for healthcare during my degree,
 
 | Publication | Venue / status | Role | Link |
 |---|---|---|---|
-| GlucoTwin: A Machine Learning-Based Digital Twin System for Early Prediction of Gestational Diabetes | Springer EHB 2025, presented Nov 2025 | First author | [Paper](https://drive.google.com/drive/folders/1e6Nin0r-KESiuB_1LfLaxkwbTJ6op_E0?usp=drive_link) |
-| GlucoTwin: A Digital Twin Platform for Real-Time Monitoring and Early Intervention in Gestational Diabetes | EDEC 2026, accepted for oral presentation (Feb 2026) | First-presenting author | [Paper](https://drive.google.com/drive/folders/1MdvTTtZOAHdgtelL-PX1awhvH5Okumn6?usp=drive_link) |
-| Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction | DeSE 2025 | Co-author | [Paper](https://drive.google.com/drive/folders/1ZD32NKu6jJHP1o94viNa0b9N8qCIKpF6?usp=drive_link) |
-| Potential of Artificial Intelligence Algorithms for Identification of Relevant Diagnostic and Prognostic Biomarkers of Early-Stage Liver Cancer | Journal, under review (Biomedical Signal Processing and Control) | Co-author | [Paper](https://drive.google.com/drive/folders/1ugygoLs2AsqcnQBoxJCoBCeHmA1iUxIR?usp=drive_link) |
+| GlucoTwin: A Machine Learning-Based Digital Twin System for Early Prediction of Gestational Diabetes | Springer EHB 2025 | First author | [Paper](https://drive.google.com/drive/folders/1MdvTTtZOAHdgtelL-PX1awhvH5Okumn6?usp=drive_link) |
+| GlucoTwin: A Digital Twin Platform for Real-Time Monitoring and Early Intervention in Gestational Diabetes | EDEC 2026, accepted for oral presentation (Feb 2026) | First-presenting author | [Paper](https://drive.google.com/drive/folders/1ZD32NKu6jJHP1o94viNa0b9N8qCIKpF6?usp=drive_link) |
+| Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction | DeSE 2025 | Co-author | [Paper](https://drive.google.com/drive/folders/1ugygoLs2AsqcnQBoxJCoBCeHmA1iUxIR?usp=drive_link) |
+| Potential of Artificial Intelligence Algorithms for Identification of Relevant Diagnostic and Prognostic Biomarkers of Early-Stage Liver Cancer | Journal, under review (Biomedical Signal Processing and Control) | Co-author | [Paper](https://drive.google.com/drive/folders/10RPk31LWchlzvFdGbCFbY3QW2DiGa6Ss?usp=drive_link) |
 
 ## 🏆 Achievements
 
