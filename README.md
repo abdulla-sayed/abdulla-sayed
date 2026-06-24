@@ -25,7 +25,7 @@ I also did research in applied machine learning for healthcare during my degree,
 
 ## 💼 What I'm Working On
 
-> Software Engineer · **BK Consultancy and Training** · Jun 2026 to Present
+> Software Engineer · **BK Consultancy and Training** · May 2026 to Present
 
 - <img src='coursebricks_logo.png' height=20px width=20px /> [Coursebricks](https://coursebricks.io/): The company's training-management platform. I work with the Coursebricks team to ship new features and improve the existing codebase.
 - <img src='maturix_logo.png' height=20px width=20px /> [Maturix](http://maturix.app): A new maturity-assessment platform that I'm helping build from the ground up.
