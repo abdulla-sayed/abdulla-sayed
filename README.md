@@ -19,7 +19,7 @@ Most of my work is in Next.js, TypeScript, Prisma and Flask, and I deploy with D
 
 I also did research in applied machine learning for healthcare during my degree, including a digital-twin platform for predicting gestational diabetes. There's more on that further down if you're curious.
 
-- 🎓 B.Sc. in Computer Science from the University of Sharjah, 3.90 GPA with Highest Honors. Recognized for academic excellence, [Spring 2024/2025](https://drive.google.com/drive/folders/1e6Nin0r-KESiuB_1LfLaxkwbTJ6op_E0?usp=drive_link)
+- 🎓 B.Sc. in Computer Science from the University of Sharjah, 3.90/4.0 GPA with Highest Honors. Recognized for academic excellence, [Spring 2024/2025](https://drive.google.com/drive/folders/1e6Nin0r-KESiuB_1LfLaxkwbTJ6op_E0?usp=drive_link)
 - 💬 Happy to talk about full-stack SaaS, building and deploying ML APIs, or AI Engineering.
 
 ## 💼 What I'm Working On
