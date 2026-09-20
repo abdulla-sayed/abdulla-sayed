@@ -81,22 +81,6 @@ I also did research in applied machine learning for healthcare during my degree,
 
 </div>
 
-## 📌 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/abdulla-sayed/GlucoTwin">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=GlucoTwin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="GlucoTwin"/>
-</a>
-<a href="https://github.com/abdulla-sayed/churn_prediction">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=churn_prediction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="ChurnPredict AI"/>
-</a>
-<a href="https://github.com/abdulla-sayed/SHAP_implementation">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdulla-sayed&repo=SHAP_implementation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8A2BE2" alt="SHAP Implementation"/>
-</a>
-
-</div>
-
 ## 🚀 Projects
 
 | Project | What it is | Tech | Links |
